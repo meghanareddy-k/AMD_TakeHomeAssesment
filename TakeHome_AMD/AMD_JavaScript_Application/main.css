@@ -1,0 +1,22 @@
+
+
+#textField{
+
+    border-color: rgb(125, 190, 125);
+    border-width: 1mm;
+
+}
+
+.navbar-brand{
+    padding-left: 1060mm;
+}
+
+#buttons{
+
+    padding-left: 80mm;
+}
+
+.btn-secondary {
+
+    background-color:rgb(163, 159, 159) !important;
+}
